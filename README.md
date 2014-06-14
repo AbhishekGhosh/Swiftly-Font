@@ -13,9 +13,12 @@ Author has not created / written the App. Author has added GNU GPL 3.0 License t
 
 As always, knowledge should be free. We will add documentation and you need not to pay anyone to learn. For this App, we have this structure :
 
-`
+<pre>
+***//
+  +SwiftFonts.xcodeproj
+ 	|
  	+-project.pbxproj
---+SwiftFonts
+  +SwiftFonts
  	|
  	+-Base.lproj
  	 	+-Main.storyboard
@@ -27,9 +30,11 @@ As always, knowledge should be free. We will add documentation and you need not 
  	+-AppDelegate.swift
  	+-Info.plist
  	+-ViewController.swift
---+SwiftFontsTests
+  +SwiftFontsTests
  	+-Info.plist 
  	+-SwiftFontsTests.swift
----LICENSE
----README.md
----screenshot.png`
+  +-LICENSE
+  +-README.md
+  +-screenshot.png
+  ***//</pre>
+
